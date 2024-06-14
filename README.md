@@ -1,4 +1,4 @@
-
+#StringDecryptionScript
 
 ## Overview
 This Ghidra script identifies and decrypts common encrypted strings in binaries. It supports multiple decryption algorithms, such as XOR and Base64.
@@ -23,7 +23,7 @@ This Ghidra script identifies and decrypts common encrypted strings in binaries.
 3. View decrypted strings in the console output.
 
 ## Tutorial Video
-[Link to Video Tutorial](#)
+(https://www.youtube.com/watch?v=qlM6dWgRk0g)
 
 ## Contribution
 Feel free to fork the project and submit pull requests. Your contributions are welcome!
